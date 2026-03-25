@@ -11,6 +11,8 @@ set CLOCK to 50 Hz
 
 // Complete some polling task
 
-<< Aaron has fixed the polling task >> // Aaron to commit the file
+
+<< Polling task >> // Aaron completed polling task
+
 
 // TODO: Ben's feature to be added below, please delete this comment when added
